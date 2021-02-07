@@ -1,6 +1,3 @@
-#
-# driving.py
-#
 import xlwings as xw
 path=r"E:\01_Project\02_groupexcel\4.xlsx"
 
